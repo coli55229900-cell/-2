@@ -10,8 +10,8 @@ Cушинський Микола,
 │   ├── README.md
 │   ├── .gitignore
 │   ├── requirements.txt
-│   ├── lab2part1.ipynb   
-│   └── lab2part2.ipynb   
+│   ├── laba2part1.ipynb   
+│   └── laba2part2.ipynb   
 └── README.md
 
 ---
