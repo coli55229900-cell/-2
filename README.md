@@ -6,7 +6,7 @@ Cушинський Микола,
 
 ## Структура репозиторію
 
-├── lab_2/
+├── laba_2/
 │   ├── README.md
 │   ├── .gitignore
 │   ├── requirements.txt
