@@ -8,7 +8,7 @@
 лабораторія_2/
 ├── .gitignore
 ├── README.md
-├── вимоги.txt
+├── requirements.txt
 ├── laba2part1.ipynb   # Частина 1 — VHI індекс України
 └── laba2part2.ipynb   # Частина 2 — Electric Power Consumption
 ```
